@@ -24,26 +24,26 @@ ___
 ### Main skills
 
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-094782?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Lua](https://img.shields.io/badge/Lua-239120?&style=for-the-badge&logo=lua3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Lua](https://img.shields.io/badge/lua-2C2D72?&style=for-the-badge&logo=lua3&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+
 
 
 ### Tools
 
-
-![VS Code](https://img.shields.io/badge/-VS%20Code-1B91E0?style=for-the-badge&logo=visual-studio-code&logoColor=1B91E0&labelColor=1f004e)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-1B91E0?style=for-the-badge&logo=blender&logoColor=1B91E0&labelColor=1f004e)&nbsp;
-![Unity](https://img.shields.io/badge/-Unity-1B91E0?style=for-the-badge&logo=unity&logoColor=1B91E0&labelColor=1f004e)&nbsp;
-![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-1B91E0?style=for-the-badge&logo=roblox-studio&logoColor=1B91E0&labelColor=1f004e)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-1B91E0?style=for-the-badge&logo=adobe-photoshop&logoColor=1B91E0&labelColor=1f004e)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-e152aa?style=for-the-badge&logo=visual-studio-code&logoColor=e152aa&labelColor=1f004e)&nbsp;
-![Intelij](https://img.shields.io/badge/-InteliJ-E0351B?style=for-the-badge&logo=intelij&logoColor=E0351B&labelColor=1f004e)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-8A62A8?style=for-the-badge&logo=visual-studio-code&logoColor=8A62A8&labelColor=8A62A8)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-2B98ED?style=for-the-badge&logo=visual-studio-code&logoColor=2B98ED&labelColor=2B98ED)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-FF6C24?style=for-the-badge&logo=blender&logoColor=EBEBEB&labelColor=ED8C1A)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-383838?style=for-the-badge&logo=unity&logoColor=D9D9D9&labelColor=696969)&nbsp;
+![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-1F1F1F?style=for-the-badge&logo=roblox-studio&logoColor=15B1ED&labelColor=363636)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-324699?style=for-the-badge&logo=adobe-photoshop&logoColor=1B91E0&labelColor=1f004e)&nbsp;
+![Intelij](https://img.shields.io/badge/-IntelliJ%20idea-4D4D4D?style=for-the-badge&logo=intelij&logoColor=E0351B&labelColor=4D4D4D)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-00A36C?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=FFEA00)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-4169E1?style=for-the-badge&logo=github&labelColor=4169E1)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-00FFFF?style=for-the-badge&logo=windows&labelColor=00FFFF)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-4E7A94?style=for-the-badge&logo=windows&labelColor=5F97B8)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-FFC000?style=for-the-badge&logo=linux&logoColor=000000&labelColor=FFC000)&nbsp;
 
 ### Other Knowledge
@@ -61,10 +61,12 @@ ___
 
 ### Areas of Interest
 
-![Computer Graphics](https://img.shields.io/badge/Computer_Graphics-FF0000?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp;
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF0000?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp;
-![QA](https://img.shields.io/badge/-Quality_Assurance-yellowgreen?style=for-the-badge&logo=ethics&labelColor=1f004e)&nbsp;
-![Game Development](https://img.shields.io/badge/-Game_Development-3498DB?style=for-the-badge&logo=data-science&labelColor=1f004e)&nbsp;
+![Game Development](https://img.shields.io/badge/-Game_Development-1E47FC?style=for-the-badge&logo=data-science&labelColor=1f004e)&nbsp;
+![Computer Graphics](https://img.shields.io/badge/Computer_Graphics-9F46C7?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp;
+![AI](https://img.shields.io/badge/Artificial_Intelligence-DB1A1A?style=for-the-badge&logo=AI&labelColor=1f004e)&nbsp;
+![3D Modeling](https://img.shields.io/badge/3D-Modeling-E68619?style=for-the-badge&logo=AI&labelColor=BD6F17)&nbsp;
+![QA](https://img.shields.io/badge/-Quality_Assurance-F2E916?style=for-the-badge&logo=ethics&labelColor=1f004e)&nbsp;
+
 
 ### GitHub Analytics
 
